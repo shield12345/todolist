@@ -40,7 +40,7 @@ This is a Blockchain web application to save your daily todo tasks in order not 
 ![image](https://user-images.githubusercontent.com/83666130/179367894-6ceecf7e-694e-4588-9086-37a56847d7f7.png)
 
 
-### Marking a Completed Task
+### Marking a completed Task
 
 ![image](https://user-images.githubusercontent.com/83666130/179367992-5e3b9d70-0f0b-4345-a2d8-008d24d3df83.png)
 
